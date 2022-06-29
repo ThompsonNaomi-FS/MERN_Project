@@ -11,3 +11,20 @@ I live in a small village with my husband, 2 dogs, and 4 cats. I enjoy video gam
 NAThompson1@student.fullsail.edu 
 
 <br>
+
+### Milestones
+## Milestone 1 Objectives (Due July 4, 2022)
+- Topic and theme for project.
+- Functional Spec that explains the scope of the work and the deadlines that must be met.
+- Create a Wireframe Prototype in Figma that will help non-tech people understand your idea. 
+## Milestone 2 Objectives (Due July 11, 2022)
+- Create your Git Repo using the provided link, which will clone over a blank repo.
+- Start to code your project. 
+- Troubleshoot code.
+- Have working React app.
+## Milestone 3 Objectives (Due July 18, 2022)
+- Should have functional prototype.
+- Should have number of significant commits pushed.
+## Milestone 4 Objectives (Due July 24, 2022)
+- Completed project.
+- 3 - 10 minute video walking through project, what you did this month and technologies used.
