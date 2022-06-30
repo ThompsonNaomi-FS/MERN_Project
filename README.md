@@ -13,7 +13,7 @@ NAThompson1@student.fullsail.edu
 <br>
 
 ### Milestones
-## Milestone 1 Objectives (Due July 4, 2022)
+## Milestone 1 Objectives (Due July 5, 2022)
 - Topic and theme for project.
 - Functional Spec that explains the scope of the work and the deadlines that must be met.
 - Create a Wireframe Prototype in Figma that will help non-tech people understand your idea. 
